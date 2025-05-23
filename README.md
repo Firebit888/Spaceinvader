@@ -9,7 +9,3 @@ This project is finished, ready to play is you now use command cmd on Windows or
   
   
 ![Spaceinvader](https://github.com/Firebit888/Spaceinvader/blob/master/Spaceinvader.jpg)
- 
-You can also find me on:
-
-Firebit - Blog: https://firebit8888.blogspot.com/
